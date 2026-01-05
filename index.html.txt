@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SA Hockey Hub</title>
+    <style>
+        body { font-family: Arial; background: #f0f0f0; padding: 20px; }
+        h1 { color: green; }
+        .team { background: white; padding: 15px; margin: 10px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>🏑 SA Hockey Hub</h1>
+    <p>South African Hockey Database - Coming Soon!</p>
+    
+    <div class="team">
+        <h3>St Stithians College</h3>
+        <p>Gauteng • High School • 4 teams</p>
+    </div>
+    
+    <div class="team">
+        <h3>University of Pretoria</h3>
+        <p>Gauteng • University • 2 teams</p>
+    </div>
+    
+    <p>Want your school added? Email: your-email@gmail.com</p>
+</body>
+</html>
